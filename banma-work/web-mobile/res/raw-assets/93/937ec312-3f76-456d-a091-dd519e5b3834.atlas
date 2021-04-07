@@ -1,0 +1,104 @@
+
+xiruguang.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 2, 270
+  size: 1261, 744
+  orig: 1261, 744
+  offset: 0, 0
+  index: -1
+guangtiao1
+  rotate: false
+  xy: 2, 102
+  size: 497, 166
+  orig: 497, 166
+  offset: 0, 0
+  index: -1
+guangtiao10
+  rotate: false
+  xy: 997, 93
+  size: 234, 80
+  orig: 234, 80
+  offset: 0, 0
+  index: -1
+guangtiao11
+  rotate: false
+  xy: 1764, 826
+  size: 262, 93
+  orig: 262, 93
+  offset: 0, 0
+  index: -1
+guangtiao12
+  rotate: false
+  xy: 2, 2
+  size: 281, 98
+  orig: 281, 98
+  offset: 0, 0
+  index: -1
+guangtiao13
+  rotate: false
+  xy: 1265, 319
+  size: 285, 94
+  orig: 285, 94
+  offset: 0, 0
+  index: -1
+guangtiao2
+  rotate: false
+  xy: 1265, 848
+  size: 497, 166
+  orig: 497, 166
+  offset: 0, 0
+  index: -1
+guangtiao3
+  rotate: false
+  xy: 1265, 538
+  size: 486, 150
+  orig: 486, 150
+  offset: 0, 0
+  index: -1
+guangtiao4
+  rotate: false
+  xy: 1754, 739
+  size: 235, 85
+  orig: 235, 85
+  offset: 0, 0
+  index: -1
+guangtiao5
+  rotate: false
+  xy: 997, 175
+  size: 262, 93
+  orig: 262, 93
+  offset: 0, 0
+  index: -1
+guangtiao6
+  rotate: false
+  xy: 1764, 921
+  size: 281, 93
+  orig: 281, 93
+  offset: 0, 0
+  index: -1
+guangtiao7
+  rotate: false
+  xy: 1265, 415
+  size: 377, 121
+  orig: 377, 121
+  offset: 0, 0
+  index: -1
+guangtiao8
+  rotate: false
+  xy: 501, 107
+  size: 494, 161
+  orig: 494, 161
+  offset: 0, 0
+  index: -1
+guangtiao9
+  rotate: false
+  xy: 1265, 690
+  size: 487, 156
+  orig: 487, 156
+  offset: 0, 0
+  index: -1

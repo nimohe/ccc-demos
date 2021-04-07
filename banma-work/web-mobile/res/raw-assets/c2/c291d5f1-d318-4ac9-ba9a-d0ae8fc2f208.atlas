@@ -1,0 +1,90 @@
+
+dazuiguaice.png
+size: 2025,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo
+  rotate: true
+  xy: 1947, 97
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: true
+  xy: 1740, 229
+  size: 235, 264
+  orig: 235, 264
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 80, 1
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 0, 5
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 507, 35
+  size: 429, 409
+  orig: 429, 409
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 918, 35
+  size: 429, 409
+  orig: 429, 409
+  offset: 0, 0
+  index: -1
+shenti3
+  rotate: true
+  xy: 1329, 35
+  size: 429, 409
+  orig: 429, 409
+  offset: 0, 0
+  index: -1
+ya
+  rotate: true
+  xy: 218, 28
+  size: 23, 72
+  orig: 23, 72
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 1947, 156
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+zhuanhuan
+  rotate: false
+  xy: 0, 53
+  size: 505, 411
+  orig: 505, 411
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 1740, 0
+  size: 205, 227
+  orig: 205, 227
+  offset: 0, 0
+  index: -1
+zuiyou
+  rotate: true
+  xy: 147, 11
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
