@@ -35,3 +35,8 @@ cocos creator引擎所写的demo展示
 [https://nimohe.github.io/ccc-demos/sunny-land/web-mobile/index.html
 ](https://nimohe.github.io/ccc-demos/sunny-land/web-mobile/index.html
 )
+
+* web-mobile-fitWidth:
+[https://nimohe.github.io/ccc-demos/sunny-land/web-mobile-fitWidth/index.html
+](https://nimohe.github.io/ccc-demos/sunny-land/web-mobile-fitWidth/index.html
+)
